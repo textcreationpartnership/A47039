@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By George Jones of Hatton-Garden, Holbourn a corner house, three doors from the sign of the New hole in the wall, over against Bauldwins-Gardens, near the George; studient in the art of physick and chyrurgery, for the space of about thirty years: this is to let you know that I practice at my house aforesaid, Monday, Tuesday, and Wednesday, in every week and the other three days in every week, I practise at my house in the upper More-fields, two golden-balls on the tops of the two posts before my door, where you shall have faithful honest dealings from me so long as I live. This is to give you notice of my friendly pill: the like whereof was never found out before, for doing good: for it hath lately helpt thousands of people, of all sorts of diseases.</title>
+            <author>Jones, of Hatton-Garden.</author>
+         </titleStmt>
+         <extent>Approx. 62KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47039</idno><idno type="EEBO-CITATION">99828315</idno>
+  <idno type="VID">32742</idno>
+  <idno type="EEBO-PROQUEST">2240885792</idno>
+  
+            <idno type="STC">Wing J941AI</idno>
+            <idno type="STC">ESTC R216589</idno>
+            <idno type="PROQUEST">99828315</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828315e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1950:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By George Jones of Hatton-Garden, Holbourn a corner house, three doors from the sign of the New hole in the wall, over against Bauldwins-Gardens, near the George; studient in the art of physick and chyrurgery, for the space of about thirty years: this is to let you know that I practice at my house aforesaid, Monday, Tuesday, and Wednesday, in every week and the other three days in every week, I practise at my house in the upper More-fields, two golden-balls on the tops of the two posts before my door, where you shall have faithful honest dealings from me so long as I live. This is to give you notice of my friendly pill: the like whereof was never found out before, for doing good: for it hath lately helpt thousands of people, of all sorts of diseases.</title>
+                  <author>Jones, of Hatton-Garden.</author>
+               </titleStmt>
+               <extent>[4], 44 p. : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, October the 15th. 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32742:1"/>
+            <pb facs="tcp:32742:1"/>
+            <p>By George Jones OF HATTON-GARDEN, HOLBOURN.</p>
+            <p>A Corner House, three Doors from the Sign of the <hi>New Hole in the Wall,</hi> over a<g ref="char:EOLhyphen"/>gainst <hi>Bauldwins-Gardens,</hi> near the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Studient in the Art of Physick and Chy<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<g ref="char:EOLhyphen"/>gery, for the space of about thirty Years: this is to let you know that I practise at my House aforesaid, <hi>Monday, Tuesday,</hi> and <hi>Wed<g ref="char:EOLhyphen"/>nesday,</hi> in every Week; and the other three days in every Week, I practise at my House in the upper <hi>More-fields,</hi> two <hi>Golden-Balls</hi> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the tops of the two Posts before my Door▪ where you shall have faithful honest dealing<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from me so long as I live.</p>
+            <p>This is to give you notice of my FRIENDLY PILL: THE Like whereof was never found out before▪ for doing good: for it hath lately help<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thousands of People, of all sorts of Disea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, <hi>October</hi> the <hi>15th.</hi> 167<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:32742:2"/>
+            <p>
+               <figure>
+                  <figDesc>engraved portrait of a gentleman</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:32742:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32742:3"/>
+            <head>To my Friends the Appren<g ref="char:EOLhyphen"/>tices of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster.</hi>
+            </head>
+            <p>VVHerein you may find a way how to prevent both Con<g ref="char:EOLhyphen"/>sumption, and Scurvies; which is the killing Distempers of these times, and many of you go out of your Apprentiships full of the Scurvies, or Consumptions, or both: and though you do serve out your times, yet instead of being capable to enjoy your selves, and mind your Imploy<g ref="char:EOLhyphen"/>ments in the World, many, to my know<g ref="char:EOLhyphen"/>ledge, have been weak and sickly, and not fit to do themselves any good; but now you may prevent such dangers according as I have directed you in this Book, without hindrance of business; and so by that means you may be able to do your Ma<g ref="char:EOLhyphen"/>sters service comfortably, and also to do for your selves when you are out of your time.</p>
+         </div>
+      </front>
+      <body>
+         <div type="advert">
+            <pb n="1" facs="tcp:32742:3"/>
+            <head>Now I will give you notice of my Friendly Pill, the like whereof was never found out before for doing good, for it hath lately helpt thousands of People of all sorts of Diseases.</head>
+            <p>IT cureth the Scurvy when it is grown to that height that it makes many people fear they have got a worse Distemper, and I think that can hardly be; for it will cause great pains in the Head, and somtimes pricking pains in the Nose, and much dulness and heavyness of Body; some will have pains in the Shoulders, others pains in the Shin<g ref="char:EOLhyphen"/>bones; some pains in the Joints, others pains all over, with foulness of the Sto<g ref="char:EOLhyphen"/>mach, Tongue, and Teeth, and loss of Appetite, &amp; pains in the Back and Blad<g ref="char:EOLhyphen"/>der; some will have sharpness and heat in making water, and stoppage like the reliques of an old <hi>Gonorrh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> which was
+<pb n="2" facs="tcp:32742:4"/> not well cured; or like those which have taken Mercury ill prepared, that cannot work it self out of the Body; some will have breakings ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or hard knobs in the Head, others swellings in the Groin, or breakings out there<g ref="char:EOLhyphen"/>abouts; some will have pains and swel<g ref="char:EOLhyphen"/>lings in the Joints of their Hands, others in their Legs or Thighs, others little swellings in the Belly and Sto<g ref="char:EOLhyphen"/>mach; some will have hoarsness with sore Throat and Mouth, others only bad Gums, and their Teeth loose; some will have hard red knobs in the Face, others scurfie briny humours behind their Ears; some little pimples about the Body, others bad sleep with con<g ref="char:EOLhyphen"/>fused Dreams; some will be tiery, and faint, and weak like the Green-sickness, others will have pains now and then between the Shoulders and Elbow; some will be only dissie in the Head, their Water will alter according to what they eat and drink, but most comonly in young Men it will be high-coloured and thick at the bottom, when it hath stood a while; in some it will be yellowish, and make the Glass it standeth in of an unwholesome greasie greasie colour; and after a Man or Woman have had i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ten or twelve years, they
+<pb n="3" facs="tcp:32742:4"/> seldome make good Water, and as sel<g ref="char:EOLhyphen"/>dome enjoy any perfect health; som<g ref="char:EOLhyphen"/>times they think they have one Disease, and somtimes another; they are often seeking for help, but get but little. The Urine of Women that have this Disease in some will be of a sad coulour, but in most it will be pale or greenish, with a whiteish sett<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing at the bottom, when it hath stood a while; some grow heavy-headed, and when they have had it some years, they grow melancholy and enjoy nothing: some it bringeth into a Dropsie and Consumption; and when these three Diseases meet toge<g ref="char:EOLhyphen"/>ther in the Body of Man, they always part in the Grave.</p>
+            <p>THis Pill helpeth all these Sym<g ref="char:EOLhyphen"/>toms<note place="margin">☜</note> aforesaid, though it is got into the marrow of the Bones, for the Scurvy will get into the Bones soonest of any Distemper: it will cure the <hi>Gonorrhaea,</hi> and sharpness and stoppage of Urine, and all manner of Vene<g ref="char:EOLhyphen"/>real Diseases, from the greatest to the smallest, although they have had it twenty years: it cures the pain and killing Consumption of the Kidneys, which is a very dangerous waste; also Ulcers in the Kidneys and Bladder,
+<pb n="4" facs="tcp:32742:5"/> and Cankers and Cancers; Ulcers in the Womb, and those that have unfor<g ref="char:EOLhyphen"/>tunately taken Mercury, it doth setch it out of any part of the Body, and all Malignant humours that are mixed with it; all sorts of pains and swellings, all sorts of Worms that breed in the Stomach and Maw, and the other sort of small Worms. There are very few people but what are troubled either with Worms or Scurvy, or both, and that is the reason these Pills help all that take them, if curable. It doth cause a good Appetite to Meat at the first taking, and causeth as good sleep as any one can desire, and cheareth the spirits very much; it doth present<g ref="char:EOLhyphen"/>ly help and carry off all crudities and swellings from the Stomach, Belly, Legs, and Thighs, and is the presentest help that I know in the World for the Dropsie: it doth help Ulcers in the Throat to admiration, and those which are sick with Ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and Drinking, it doth help at once taking: it taketh away all pains out of the Bones, when no other means will do it; and for any of the aforesaid Distempers, the Pill being taken at the first beginning, it will cure at once taking; but if the Scurvy be old and stubborn, it will require
+<pb n="5" facs="tcp:32742:5"/> more; and if you find the first taking hath not finished the Cure, take twenty every third night as you go to Bed, till you have taken four or five times, or till you are well.</p>
+            <p>Now I would have you take notice of the Rarity of this Pill: they are no bigger than a Pins head, and any Man or Woman may take twenty of them, and put them into a Spoon, with a little Ale or Beer, and swallow them all at once at night as you go to Bed, or else put them into the pulp of an Apple, or any other way that you can best take them, for they are very easie to take, then you will see the Ra<g ref="char:EOLhyphen"/>rity of this little Pill; in the first place you will have a comfortable nights rest, with a little breathing sweat all night, but not so much as to make your Linnen wet, as also Purging Wind downwards if there be any that doth offend the Body; and in the morning both Sleep, and Sweat, and Purging Wind go all off together, and presently they begin to work by Stool and Urine, and it <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>l bring away corruption out of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body, according to the quantity that doth offend; if the Body be very foul, it doth bring away almost a Cham<g ref="char:EOLhyphen"/>ber pot full the first Stool, and one;
+<pb n="6" facs="tcp:32742:6"/> two, or three stools of Corruption after<g ref="char:EOLhyphen"/>wards, and so you may go about your business. The People tell me it doth make them very hungry, and by that it may be known to be a very wholsome Pill, and well prepared: and having the warm Bed all night, it draws all the bad humours of the Body to the Stomach, and there corrects their sharpness, and sends them down through the Bowels. But still there is more Rarity in this little Pill; it doth not gripe at all, nor make one sick, like other Physick, nor weaken the Body; but contrary to all other Physick, it doth strengthen the whole Body in the very time of ta<g ref="char:EOLhyphen"/>king it, and cheareth the spirits: and may go where he pleaseth, and do what he pleaseth; only Women must not put their hands in cold water the next day. You may take them any time of the year with good success, and it is no matter whether you eat or drink till Dinner-time, only such as are weak may drink a little Posset-Ale after every stool. It will continue good, longer than any Man can live; and if any Merchants that travel into those Countries, where the Distempers aforesaid are, I will allow them good profit, and all they bring back I will
+<pb n="7" facs="tcp:32742:6"/> receive again at the same Rates they had them from me, and will give any Man Security for the same, before he receives the Pills. These Pills raise the Lame out of their Beds, though Aged; as a Witness whereof, I took notice of one Mr. <hi>John Kitteredge,</hi> at the next door to the Sign of the Three Tuns in <hi>Redriff,</hi> near <hi>London,</hi> who had kept his Bed with Lameness three months, or thereabouts, being threescore and thir<g ref="char:EOLhyphen"/>teen years of Age, and one that had been a great pains-taker at Sea, who came to my House in <hi>Hatton-Garden</hi> on the <hi>18th. day</hi> of <hi>August,</hi> 1674. and told me, that about two years ago he lay sick in his Bed, and (as I remem<g ref="char:EOLhyphen"/>ber) he said he did never expect to rise again out of it, but having taken of my <hi>Friendly Pills</hi> three times, with Gods help, he raised himself out of his Bed, and hath walked abroad these two years, as aforesaid, and he desired more of them.</p>
+            <p>
+               <hi>THis is to give notice to all</hi>
+               <note place="margin">☜</note>
+               <hi>weak crasie People, al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough they are very weak with the Scurvy, that this doth relieve and strengthen them at once taking. I formerly sold the same quantity for five shillings, which I sell now for on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:32742:7"/> shilling, because the Poor may have the benefit thereof as well as the Rich. What I have said of this Pill is true, to the ut<g ref="char:EOLhyphen"/>termost of my knowledge</hi>
+            </p>
+            <p>
+               <hi>But I would have you beware of the</hi>
+               <note place="margin">☞</note>
+               <hi>Cheats, for they are very busie at work to counterfeit them, and do give▪ out and say, they can make them; and if one Man may believe another, they do sell their coun<g ref="char:EOLhyphen"/>terfeit stuff to some of the Doctors, for ten shillings the Ounce; but I say, have a care, lest they cheat you of your mony, and your lives also: for it will prove a dangerous thing to counterfeit this Pill: for there are many things in it, which is preparing some years before it is fit to be used.</hi>
+            </p>
+            <p>
+               <hi>If Children have the Scurvy, or any kind of Venerial Distemper, as som<g ref="char:EOLhyphen"/>times they bring into the world with them, they may take from one year old one Pill, and so many years old as they are, so many Pills, till they come to twenty Pills; and so th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se which are three or fourscore years of age may take twenty. Note, that those Bodies which are melancholy and hard to work upon, may take Twenty<g ref="char:EOLhyphen"/>fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or Thirty, of my</hi> Friendly Pills <hi>every third night till they are well.</hi>
+            </p>
+            <p>The Scurvies is the Mother and N<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rsery of all Diseases: and upon ta<g ref="char:EOLhyphen"/>king
+<pb n="9" facs="tcp:32742:7"/> cold, or any disorder of Body, they branch out one Distemper or other, and yet the grand cause, which is the Scurvies, remains all one in the Body.</p>
+            <p>Most of these Cures, with thousands more, I have done, with the help of these my Friendly Pills, though I did not Minister them in the same manner as I now do.</p>
+            <p>Four hundred and seventeen Women, cured of the weak Back, Consumption, and wast of the Kidneys, and Reins, weakness, weeping of the Womb, and made fit for the bearing of Children; and not any of them will allow me to put their Names into my Book, nor to so much as mention their Names. But one, her ungodly Neighbours laughing at her for having a pain in the Back, caused her to deny her Cure; and so I am fain to put her name out of my Book. The Scurvy causes the weak Back, and the wasting Consumption thereof, which my Friendly Pills fail not the cure. I daily take notice, and often of such as the Scurvy makes them look as black as the Chimney, it hath so much clean<g ref="char:EOLhyphen"/>sed the blood▪ at once taking, that I could hardly know them the next day.</p>
+            <p>And I am to give you further notice, that it driveth out all Sand and Gravel
+<pb n="10" facs="tcp:32742:8"/> out of the Reins and Kidneys; and all this disorder in the Back is bred of the Scurvy, and so is all Sand and Gravel, and the weakness and pain of the Back. I desire all that have the Scurvy in the Back, to take of my Friendly Pills, or come to me, and you shall not fail ha<g ref="char:EOLhyphen"/>ving cure.</p>
+            <p>The Scurvy is bred of bad blood, which instead of supplying Nature with good nourishment, sendeth her corrupt, mixed with a sharp tough slimy tinct<g ref="char:EOLhyphen"/>ure, which passeth through the ends, or branches of the Arteries, into all the Muscles, and so it settles in the habit of the whole Body; and that is the reason some can eat their Meat well, but it does not at all nourish the Body, only keep them alive.</p>
+            <p>And you may be sure, that most of those that dye in <hi>London</hi> set down in the Bill every Week, sometimes fifty, or threescore of the Consumption, it is meerly the Scurvy, got into the habit of the whole Body; and begins, either in the Lungs, by coughing and spitting, or into the Reins, and Kidneys, and in<g ref="char:EOLhyphen"/>to the Life Spirits of the whole Mass of Blood, &amp; so begins to consume the whole Body; and you may see the consuming in the Urine, or by some other wast, or
+<pb n="11" facs="tcp:32742:8"/> moistures, about the Privities.</p>
+            <p>All Diseases are bred of the Scurvies, only malignant Feavers, and Palsies; and such Distempers as are caused by the influence of Stars; and my Friend<g ref="char:EOLhyphen"/>ly Pills help all Diseases bred of the Scurvy. It may be one Man, or one Woman, of a thousand that have confest that their Doctors have given them Phy<g ref="char:EOLhyphen"/>sick strong enough for a Horse, but it would not work on them, I allow such Bodies to take as many of my Pills as they please, not exceeding forty at once.</p>
+            <p>And I am further to inform you, that my Friendly Pills will not work where there is not matter for them to work on: for they will not work upon Na<g ref="char:EOLhyphen"/>ture, and weaken the Body like other Physick, but will be to them as if they had taken nothing, only chear the Spi<g ref="char:EOLhyphen"/>rits: as for Example, a Gentlewoman having three Servants all sick, she had five-score of my Friendly Pills, and at night caused her three Servants to take twenty a piece of my Pills; and though her Husband and she were well, yet they would take twenty a piece, so they five took all the hundred Pills and went all to Bed, and the next morning they worked very well on the three Servants which were sick, but on the Master and
+<pb n="12" facs="tcp:32742:9"/> Mistriss that were well, they worked not at all, only cheared their Spirits, and made them more lively than they were before. Another took of them and they did not work, and yet cured the Distem<g ref="char:EOLhyphen"/>per. Although twenty is the ordinary Dose for sickly People, yet those which are strong, may take as aforesaid, not exceeding forty at once: it doth help those that are subject to lose their strength in the night by Dreams.</p>
+            <p>Pray take notice, that if the whole World had desired Art to have prepared a Medicine, they could not in rea<g ref="char:EOLhyphen"/>son have desired a better, than to ope<g ref="char:EOLhyphen"/>rate seven several ways in order: as first by Sleep, secondly by little breathing sweat, thirdly by Wind downwards, fourthly by Stool, fifthly by Urine, sixth<g ref="char:EOLhyphen"/>ly by chearing the Spirits, seventhly by strengthening the whole Body in the very time of taking.</p>
+            <p>Put the twenty Pills, or so many as<note place="margin">☞</note> you take, according to order aforesaid, into a Spoon, with some Ale or Beer, to wash them down, and swallow them all at once, at Night going to Bed, and have a large Chamber-pot ready in the morning▪</p>
+            <div type="testimonials">
+               <pb n="13" facs="tcp:32742:9"/>
+               <p>Now you shall hear of some of the Cures which I have done, the Peoples Names, and Places where they live; and I desire you will enquire the truth of them, and I think you will hardly find any the like done before me.</p>
+               <p n="1">1. Mr <hi>Alexander Toys</hi> of <hi>Catter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>wheel-yard</hi> over against the Sheep-Pens in <hi>West-Smith-Field,</hi> of the Feaver and Gripes of the Guts, when it had brought him so low, that none thought he would have lived.</p>
+               <p n="2">2. Mr. <hi>John Farmer</hi> of <hi>Lime-kill-yard</hi>
+                  <note place="margin">☜</note> in <hi>Limus,</hi> near the Sign of the Carpen<g ref="char:EOLhyphen"/>ters Arms, of the Ptisick and Cough of the Lungs and Consumption, when he was like to dye, and I told him if he did find good in my things, and live a week, he might with Gods help recover: he returned thanks for his Cure.</p>
+               <p n="3">3. Mr. <hi>Edward Quinborow,</hi> over a<g ref="char:EOLhyphen"/>gainst<note place="margin">☜</note> the Bear and Ragged-Staff, near the Bank-side, <hi>South-wark,</hi> of the A<g ref="char:EOLhyphen"/>gue, and Feaver.</p>
+               <p n="4">4. Mr. <hi>Wass</hi> at, at the Sign of the<note place="margin">☜</note>
+                  <hi>Robbin Hood</hi> and <hi>Little John,</hi> in <hi>Mai<g ref="char:EOLhyphen"/>den▪ Lane</hi> in <hi>Westminster,</hi> who had a Coach run over his Leg, and I cured him in about three weeks.</p>
+               <p n="5">5. Mr. <hi>John Chersly,</hi> li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing at the<note place="margin">☜</note>
+                  <pb n="14" facs="tcp:32742:10"/> Swan and Key in <hi>Brick-Lane</hi> in <hi>Old<g ref="char:EOLhyphen"/>street,</hi> who had been quite deaf, troubled with a great noise in his Head above forty years, being above threescore and seventeen years of age when I cured him, both he and his Wife returned thanks, both to God and me, and he heareth very well.</p>
+               <p n="6">6. Mr. <hi>William Shearman</hi> in <hi>Black-Fryers,</hi>
+                  <note place="margin">☞</note> over against the Dark-Entry, of the Stone and Gravel, in the Kidneys and Bladder, and of the Sciatica.</p>
+               <p n="7">7. Mr. <hi>Ralph Steel</hi> of <hi>Clarken-well,</hi> the<note place="margin">☞</note> next door to the Sign of the Flying-Horse, of a Consumption and great weakness.</p>
+               <p n="8">8. Mr. <hi>Harris</hi> of <hi>Christophers-Alley,</hi>
+                  <note place="margin">☞</note> in the upper <hi>More-Fields,</hi> of the Palsie, who could not get help in fourteen years, and neer threescore years of age, and with Gods help I made him well.</p>
+               <p n="9">9. Mr. <hi>John Davis</hi> of <hi>Pickled Herring-Stairs,</hi>
+                  <note place="margin">☞</note> at the Sign of the five Tobacco-Pipes, of the Ague.</p>
+               <p n="10">10. Mr. <hi>William Medbery,</hi> of St.<note place="margin">☞</note>
+                  <hi>Martins</hi> in the <hi>Fields,</hi> a Coach maker, next door to the Sign of the Sugar Loaf, at a Glass-makers, of the Sciatica in his Hyp, and at times, in all his Joints, who lay very weak, and could not get help by any other.</p>
+               <p n="11">
+                  <pb n="15" facs="tcp:32742:10"/>11. Mr. <hi>Edward Baily,</hi> at the Kings<note place="margin">☜</note> Brew-House, over against the Turks-Head in St. <hi>Gilese<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in the <hi>Fields,</hi> of the Griping Plague in the Guts.</p>
+               <p n="12">12. Mr. <hi>Richard Bower,</hi> at the Sign<note place="margin">☜</note> of the Ship in <hi>Jermin-street Westminster,</hi> of the Stone and Gravel: there came a small Stone from him at the first, and after he had used that I ministred to di<g ref="char:EOLhyphen"/>solve the Stone there came from him a<g ref="char:EOLhyphen"/>bove half a Pint, by his own relation, of Gravel and Sand, and within eight or nine days time, he made water very well all the time, and after that he was very well.</p>
+               <p n="13">13. Mr. <hi>Seal</hi> an Oyl-man in <hi>Hol<g ref="char:EOLhyphen"/>bourn,</hi>
+                  <note place="margin">☜</note> over against the White-Lyon at the lower-end of <hi>Hatton-Garden</hi> end, of a Feaver, and Griping in the Guts.</p>
+               <p n="14">14. Mr. <hi>Fawey,</hi> at the Black-Raven<note place="margin">☜</note> in <hi>Long-Acre,</hi> of the Sciatica in his Hyp.</p>
+               <p n="15">15. Mr. <hi>Adam Prince,</hi> at the sign of the Boot, in <hi>Kings-street Westminster,</hi> of the Stone and Gravel in the Kidneys and Bladder.</p>
+               <p n="16">16. Mr. <hi>Barns</hi> of <hi>Hornsy,</hi> four miles<note place="margin">☜</note> from <hi>London,</hi> of the Ague.</p>
+               <p n="17">17. <hi>William Day,</hi> near the Gray-Hound<note place="margin">☜</note> in <hi>Broad Mead</hi> in <hi>Bristol,</hi> of deafness, being near threescore years of Age when I cured him, and now he heareth as well as any.</p>
+               <p n="18">
+                  <pb n="16" facs="tcp:32742:11"/>18. <hi>John Pawel</hi> of <hi>Donkerton,</hi> three<note place="margin">☞</note> miles from <hi>Bath,</hi> of a Wen on his Eye<g ref="char:EOLhyphen"/>brow, being of great bigness: and he brought it into the World with him, be<g ref="char:EOLhyphen"/>ing near thirty years of Age when I cu<g ref="char:EOLhyphen"/>red him, and I did it without cutting.</p>
+               <p n="19">19. Mr. <hi>Edward Corbit,</hi> of the <hi>Neat<g ref="char:EOLhyphen"/>houses</hi>
+                  <note place="margin">☞</note> a Gardiner, of great pain and stop<g ref="char:EOLhyphen"/>page of his Stomach.</p>
+               <p n="20">20. <hi>Francis Hollis</hi> in <hi>Wapping,</hi> at the<note place="margin">☞</note> Sign of the Water-house, of great pain in his Ankles, who could not get help by any in three or four years.</p>
+               <p n="21">21. <hi>William Ash</hi> of <hi>Bednal-Green,</hi> over<note place="margin">☞</note> against the old Chappel, of the third day Ague and Feaver.</p>
+               <p n="22">22. Mr. <hi>John Weston</hi> of the <hi>Neat<g ref="char:EOLhyphen"/>houses,</hi>
+                  <note place="margin">☞</note> near <hi>Westminster,</hi> of the Third Ague, and Feaver.</p>
+               <p n="23">23. Mr. <hi>Philip Luke,</hi> of the <hi>Neat<g ref="char:EOLhyphen"/>houses,</hi>
+                  <note place="margin">☞</note> near <hi>Westminster,</hi> of the Stone.</p>
+               <p n="24">24. Mr. <hi>Samuel Chadwell,</hi> the next<note place="margin">☞</note> door to the sign of the Worlds-end, in <hi>Tuly street</hi> in <hi>Southwark,</hi> of the Feaver, and Gripes in the Guts.</p>
+               <p n="25">25. Mr. <hi>John Heel</hi> of <hi>Angel-Alley</hi> in<note place="margin">☞</note>
+                  <hi>Bishops-gate-street,</hi> I sayed his Leg from rotting off.</p>
+               <p n="26">26. Mr. <hi>Shpheard,</hi> next door to the<note place="margin">☞</note> Golden Ball in <hi>Hatton-Garden,</hi> of the new Feaver, and Gripes in the Guts, his
+<pb n="17" facs="tcp:32742:11"/> Tongue was as black as Ink, with the violence of the Distemper, yet with Gods help, I made him as well as ever he was in his life.</p>
+               <p n="27">27. Mr. <hi>James George</hi> on the Bank<g ref="char:EOLhyphen"/>side<note place="margin">☜</note> near the <hi>Bear-Garden</hi> in <hi>South<g ref="char:EOLhyphen"/>wark,</hi> of great pain in his Shoulders, Arms, and Hyps.</p>
+               <p n="28">28. Mr. <hi>John Bucher</hi> of <hi>Haygrove,</hi> a<note place="margin">☜</note> little way out of <hi>Worminster,</hi> in <hi>Wilt<g ref="char:EOLhyphen"/>shire,</hi> of a Canser in his Shoulder, Neck and throat; he was so bad that none would meddle with him, but my self, when I had undertaken him, the Doctors thereabouts laught; and one said he would give me fifty Pound, if I cured him, and others likewise; but when I had cured him, there was not any would give me a Penny, but himself, yet with Gods help, I made him as well as ever he was in his life.</p>
+               <p n="29">29. Mr. <hi>Henry Clare,</hi> of a Consumpti<g ref="char:EOLhyphen"/>on,<note place="margin">☜</note> when he was so much wasted, that his Flesh was all withered away, that he had not any thing left to cover his bones, but the skin, I did never see any Man so bare of Flesh, neither dead, nor alive, and using my things, he grew strong and lusty, and Flesh grew up and covered his Bones, insomuch, that he hath as much Flesh as any ordinary
+<pb n="18" facs="tcp:32742:12"/> Man, and thus we may see God blesseth the means somtimes contrary to Mens expectations: the People at the Gold<g ref="char:EOLhyphen"/>en Pattin over against the <hi>Kings-Bench</hi> in <hi>Southwark,</hi> will give you an account of this great Cure.</p>
+               <p n="30">30. Mr. <hi>Cook</hi> of <hi>Spalldock,</hi> three<note place="margin">☞</note> miles off St. <hi>Needs,</hi> of the Sciatica Gout.</p>
+               <p n="31">31. Mr. <hi>Thomas Day</hi> living in <hi>Shore-Ditch,</hi>
+                  <note place="margin">☞</note> at a corner Brick-house, next to <hi>Hollow-way-Bridge,</hi> of the Sciatica.</p>
+               <p n="32">32. Mr. <hi>Abel Barten</hi> at the Brew<g ref="char:EOLhyphen"/>house,<note place="margin">☞</note> at the upper-end of St. <hi>Johns<g ref="char:EOLhyphen"/>street,</hi> of the Gout, being near three<g ref="char:EOLhyphen"/>score years of Age, and so lame with it, that he was not able to turn in his Bed, and with Gods help, I made him as well as ever he was in his life.</p>
+               <p n="33">33. Mr. <hi>Michael</hi> a School-Master, in<note place="margin">☞</note>
+                  <hi>Angel-Alley</hi> in <hi>Grays-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nn-Lane,</hi> of a sore and Rheumy Eye, who had made try<g ref="char:EOLhyphen"/>al of able Men, for the space of seven, or<note place="margin">☞</note> eight years, and could not get any re<g ref="char:EOLhyphen"/>medy, and with Gods help I made him well in nine or ten weeks.</p>
+               <p n="34">34. Mr. <hi>Richard Young</hi> of <hi>Park-street</hi>
+                  <note place="margin">☞</note> near St. <hi>Albons,</hi> of a Wen upon the top of his Head: who could not get help by any other in twenty years, and I took it out at twice dressing, not spilling one drop of blood.</p>
+               <p n="35">
+                  <pb n="19" facs="tcp:32742:12"/>35. Mr. <hi>Edward Squire</hi> in <hi>Goswel<g ref="char:EOLhyphen"/>street,</hi>
+                  <note place="margin">☜</note> at Mr. <hi>Matthew Brown</hi>'s House, a Shoo-maker, over against the Pump, between the sign of the Maiden-head and the Bell, of a Cancered Wen in the side of his Neck, near as big as a Penny-Leaf, which grew fast to the Mandable, or the Jaw-bone; and the Veins and Sinews grew through it, and I cured him without hurting the Veins and Sinews, insomuch that none can hardly see where it grew; and if he be not there now, Mr. <hi>Brown</hi> the Man of the fore-said House, can give you an account of this great Cure.</p>
+               <p n="36">36. Mr. <hi>Robert Daily,</hi> of <hi>Kingston</hi>
+                  <note place="margin">☜</note> upon <hi>Thames,</hi> ten miles from <hi>London,</hi> of the Vomiting blood.</p>
+               <p n="37">37. Mr. <hi>Robert Miles,</hi> of <hi>Kent-street,</hi>
+                  <note place="margin">☜</note> next door to the Rose, in <hi>Southwark,</hi> of the Ague and Feaver.</p>
+               <p n="38">38. Mr. <hi>John Arnel,</hi> at the top of<note place="margin">☜</note>
+                  <hi>Saffron-Hill,</hi> of the Ague and Feaver.</p>
+               <p n="39">39. Mr. <hi>Michael Smith,</hi> near the<note place="margin">☜</note> sign of the Griffin in <hi>Russel-street</hi> in <hi>Co<g ref="char:EOLhyphen"/>vent-Carden,</hi> of great pain in his Limbs, and the Cramp.</p>
+               <p n="40">40. Mr. <hi>Bull,</hi> near the sign of the<note place="margin">☜</note>
+                  <hi>George</hi> in <hi>Grove-street,</hi> in <hi>Hackney,</hi> of the Third day Ague.</p>
+               <p n="41">41. Mr. <hi>Richard Pope,</hi> of <hi>Bricksham,</hi>
+                  <note place="margin">☜</note>
+                  <pb n="20" facs="tcp:32742:13"/> two miles off <hi>Dartmouth,</hi> of great pain of his stomach, sides, and back.</p>
+               <p n="42">42. <hi>John Beard,</hi> of <hi>Tolnes,</hi> in <hi>Devon<g ref="char:EOLhyphen"/>shire,</hi>
+                  <note place="margin">☞</note> of lameness in all his Limbs, and I soon made him lay by his Crutches.</p>
+               <p n="43">43. <hi>William Randal,</hi> three miles off<note place="margin">☞</note>
+                  <hi>Exiter,</hi> of the Megrim and Cough, and great pain of his stomach and back.</p>
+               <p n="44">44. <hi>William Triggey,</hi> of <hi>Glaston,</hi> four<note place="margin">☞</note> miles from <hi>Wells,</hi> of great pain in his side, beiug Aged, and could not get help by any other.</p>
+               <p n="45">45. <hi>Robert Brownsy,</hi> of <hi>Honington</hi> in<note place="margin">☞</note>
+                  <hi>Devonshire,</hi> of the Cough, and great weakness in all his Body; and I made him go about his work in three or four days.</p>
+               <p n="46">46. <hi>Walter Collins,</hi> of <hi>Charlton Adam,</hi>
+                  <note place="margin">☞</note> eight miles off <hi>Taunton,</hi> of deafness.</p>
+               <p n="47">47. <hi>Benjamin Hollet,</hi> in <hi>Swan-Lan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-Court,</hi>
+                  <note place="margin">☞</note> on the Key in <hi>Bristol,</hi> of the Third day Ague.</p>
+               <p n="48">48. Mr. <hi>Thomas Roads,</hi> of <hi>Broa-Mead</hi>
+                  <note place="margin">☞</note> in <hi>Bristol,</hi> of the Ptisick and Cough, with a Consumption, and ex<g ref="char:EOLhyphen"/>traordinary pain and stoppage at his Stomach,</p>
+               <p n="49">49. Mr. <hi>Thomas Elot,</hi> near the sign of<note place="margin">☞</note> the Leg in <hi>Temple-street</hi> in <hi>Bristol,</hi> of the Cough.</p>
+               <p n="50">50. <hi>John Douling,</hi> of <hi>Lewins-Mead</hi>
+                  <note place="margin">☞</note>
+                  <pb n="21" facs="tcp:32742:13"/> in <hi>Bristol,</hi> of great weakness and pain.</p>
+               <p n="51">51. <hi>William Hayght,</hi> of <hi>Allsy</hi> Parish, a<note place="margin">☜</note> mile off <hi>Coventry,</hi> of the Sciatica pain in his Hyp.</p>
+               <p n="52">52. <hi>William Rabbet</hi> of <hi>Kettorin,</hi> in<note place="margin">☜</note>
+                  <hi>Northamptonshire,</hi> of the third day Ague.</p>
+               <p n="53">53. Mr. <hi>Henry Chapman</hi> of <hi>Moulton,</hi>
+                  <note place="margin">☜</note> three miles from <hi>Northampton,</hi> whose Hand was to be cut off, and I cured him without the loss of a Joint.</p>
+               <p n="54">54. <hi>Matthew Negus</hi> of St. <hi>Needs,</hi> of<note place="margin">☜</note> the third day Ague, who could not get help in three yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <p n="55">55. <hi>Robert Pillings</hi> of <hi>Notingham,</hi> of<note place="margin">☜</note> the Ague.</p>
+               <p n="56">56. <hi>Thomas Rayner</hi> of the same Town<note place="margin">☜</note> of six Ulcers in his Legs, who could not get help in many years.</p>
+               <p n="57">57. <hi>John Astcot</hi> of <hi>Totnes</hi> in <hi>Devon<g ref="char:EOLhyphen"/>shire,</hi>
+                  <note place="margin">☜</note> of the Stone, being about three<g ref="char:EOLhyphen"/>score years of age when I cured him: he could not make one drop of water, and his pain was very terrible, and I made the Stone to break to pieces in about six hours, and cannot hear that he hath been troubled any more therewith, being neer six years since: Witness <hi>John Ast<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot, John S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pson, Peter Bragg. Ptal<g ref="char:EOLhyphen"/>mens Sampson, Zach. Panchard, Anthony Longworth, John Ame<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> being his Neigh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ours in <hi>Totnes.</hi>
+               </p>
+               <p n="58">58. <hi>William Blackaller,</hi> of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:32742:14"/> aforesaid, of the Apoplexy and Palsie on his right side, and a Consumption with<g ref="char:EOLhyphen"/>all, so that he could not rise out of his Bed, and none thought he would ever recover; and I first made him go on Crutches, and soon after without, and within a reasonable time, with Gods help, I made him well.</p>
+               <p n="59">59. <hi>William Day,</hi> neer the Gray<g ref="char:EOLhyphen"/>hound<note place="margin">☞</note> in <hi>Broad-Mead</hi> in <hi>Bristol,</hi> of Deafness; being neer threescore years of age when I cured him, and he heareth as well as any.</p>
+               <p n="60">60. Mr. <hi>Thomas Love</hi> neer <hi>Sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>editch</hi>
+                  <note place="margin">☞</note> Church, of Jaundies, he being neer fourscore years of age, and cannot hear that he hath been amiss ever fince.</p>
+               <p n="61">61. Mr. <hi>Adam Fouler</hi> Gardiner of<note place="margin">☞</note>
+                  <hi>Brick-Lane</hi> in <hi>Old-street</hi> neer the sign of the Horse-shooe, of the new Plague in the Guts, with voiding blood and slime by stool.</p>
+               <p n="62">62. I helpt <hi>John Neal</hi> at Mrs. <hi>Lumious</hi>
+                  <note place="margin">☞</note> her House at the three Tobacco-Roles in <hi>Wood-street</hi> neer the Mill Bank at <hi>Westminster,</hi> of a broken Vein, who bled at the Nose, Mouth, and by Urine, and black spots in the skin all over hisbody.</p>
+               <p n="63">63. <hi>Will Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chin</hi> neer the sign of the<note place="margin">☞</note> Leg in <hi>Temple-street</hi> in <hi>Bristol,</hi> of the Sciatica Gout in his Hyps, who was so l<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> therewith, that he was fain to
+<pb n="23" facs="tcp:32742:14"/> creep about the House upon his Hand▪ and Knees, being about threescore years age, and could not get help of any oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and I made him as well as ever he wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his life, with Gods help.</p>
+               <p n="64">64. Mrs. <hi>Terry,</hi> both her Husband a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her self desired this great Cure shou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be set down in my Book, that others might know where to come to me and find good in like manner.—</p>
+               <p>Her Disease was a stoppage fallen into<note place="margin">☜</note> her Kidneys, which caused an extraor<g ref="char:EOLhyphen"/>dinary wracking and torturing pain in her back, and great pain and weakness in her hyps and limbs downward; this Distem<g ref="char:EOLhyphen"/>per seized her immediately after my going into the Country, whereupon she consult<g ref="char:EOLhyphen"/>ed the best means she could for the Cure, but found none to be effectual; and at my return to <hi>London,</hi> being neer three months, she sent her Water to me, by which and other Circumstances, I found her to be in a very desperate condition, and that in all likelihood she could not live above a day or two, whereupon I ad<g ref="char:EOLhyphen"/>ministred something to her, and in once taking she found a great benefit by it, which gave me encouragement to proceed in the Cure, which it pleased God in a short time to make effectual, and perfect Cure. She liveth at the B<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Grapes neer the Kings-B<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:32742:15"/>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ark,</hi> where she and her Family are able <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> attest the truth hereof.</p>
+               <p n="65">65. The Wife of <hi>William Thomas</hi> of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck-lane</hi> going out of <hi>Corn-street</hi> into <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icholas-street</hi> in <hi>Bristol,</hi> of a Cancer in her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eft breast and side, when they that had her in hand gave her off for a d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad Wo<g ref="char:EOLhyphen"/>man; the Distemper being so bad, with hardness of red, yellow, and black colours, which was very sad to behold, and they every day put in a Tent between her Ribs quite into her Body, about the length of a mans finger; so I judge the end of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Tent must needs reach within an Inch of her heart: she had also a con<g ref="char:EOLhyphen"/>tinual Feaver attending on her; so that there could not be any thing expected but death; I presently caused the Tent to be laid by, and I never applied Tent nor Instrument, but gave her present ease, and cured her in nine or ten weeks time with Gods help.</p>
+               <p n="66">66. <hi>Elizabeth Tonson,</hi> of <hi>Newington</hi>
+                  <note place="margin">☞</note>
+                  <hi>Buts,</hi> in <hi>Blackman-street,</hi> in <hi>Lamb-Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey</hi> in <hi>Southwark,</hi> of a Cancer in her Breast, almost as big as a mans Head, and I consumed it away without cutting, and without putting her to pain, or hindring business; and she continueth well to this <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it being three or four years since I <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Robert H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rison,</hi> of
+<pb n="25" facs="tcp:32742:15"/>
+                  <hi>Coundon,</hi> a mile off <hi>Coventry,</hi> of the Consumption, Feaver, Jaundies, yellow, and black, having all these Distempers all on her at once; and all that had her in hand gave her off for a dead Woman, and yet God was pleased to give a blessing to the means I used, and restored her to her former strength and health again.</p>
+               <p n="68">68. The Wife of Mr. <hi>Middleton,</hi> at<note place="margin">☜</note> the Golden Pattin over against the Kings-Bench in <hi>Southwark,</hi> of the Dropsie, with great weakness, who had lost the greatest part of her blood, so that she had little left in her Veins but watry humours, which turned to a sad Dropsie, with great weakness; and this came with a miscarriage of two Children at one birth; and I made her as well as ever she was in her life.</p>
+               <p n="69">69. The Wife of Mr. <hi>Edward Thomas</hi>
+                  <note place="margin">☜</note> neer the sign of the Gun in <hi>Wooledge,</hi> of great pain and weakness after Child<g ref="char:EOLhyphen"/>bearing, who had made use of other Doctors for about three months, and could not get any help.</p>
+               <p n="70">70. Mrs. <hi>Margaret Guiny,</hi> of <hi>Church-Yard-Alley</hi>
+                  <note place="margin">☜</note> in <hi>Chick-Lane,</hi> of great pain in her st<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>moch and back, and vomiting.</p>
+               <p n="71">71. The Wife of Mr. <hi>John Fisher,</hi>
+                  <note place="margin">☜</note> next door to the White Horse, over a<g ref="char:EOLhyphen"/>gainst <hi>Claringden House,</hi> in <hi>Portugal-street,</hi>
+                  <pb n="26" facs="tcp:32742:16"/> at the upper end of <hi>Pickadilly,</hi> of the Palsie all on one side, and other weakness, which came with miscarrying of her Child.</p>
+               <p n="72">72. The Wife of Mr. <hi>John Hodgkins,</hi>
+                  <note place="margin">☞</note> in <hi>Shoomakers Row</hi> in <hi>Black-Fryers,</hi> at the sign of the Last, of a Feaver, with great pain at her stomach, and was so bad that none thought she would have lived.</p>
+               <p n="73">73. The Wife of Mr. <hi>Bullack</hi> of <hi>Feather-Alley,</hi>
+                  <note place="margin">☞</note> or <hi>Yard,</hi> in <hi>Grays-Inn Lane,</hi> of the Feaver and Gripes in the Guts.</p>
+               <p n="74">74. The Wife of Mr. <hi>Isaiah Palmer,</hi>
+                  <note place="margin">☞</note> the next door to the <hi>Old Shears</hi> in <hi>Great Wo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d-street,</hi> of a Cancered Wen on her hand, which was breeding above twelve years, and could not get help, and I made her as well as ever she was in her life</p>
+               <p n="75">75. The wife of Mr. <hi>Steel,</hi> the next<note place="margin">☞</note> door to the Flying Horse, near <hi>Hockly,</hi> in <hi>Clarkenwell</hi> Parish, of great pain in her side, who could not get help.</p>
+               <p n="76">76. The Wife of <hi>John Wright,</hi> of<note place="margin">☞</note>
+                  <hi>Brick-Lane</hi> in <hi>Old-street,</hi> in <hi>Swan</hi> and <hi>Key Yard,</hi> of Deafness.</p>
+               <p n="77">77. Mrs. <hi>Clipson,</hi> at <hi>Saffron-Hill,</hi> next door to the Role of Tobacco, of a Cough, who could not get help by any other.</p>
+               <p n="78">78. <hi>Elizabeth Fish,</hi> of <hi>Hodsdon,</hi> next<note place="margin">☞</note> door to the <hi>Three Kings,</hi> of great pain and l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meness, in all her Limbs, and the Gripes <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p n="79">
+                  <pb n="27" facs="tcp:32742:16"/>79. Mrs. <hi>Elizabeth Clevorly,</hi> next door<note place="margin">☜</note> to the three Neats. Tongues, in <hi>Silver<g ref="char:EOLhyphen"/>street</hi> in <hi>Bloomsbury,</hi> of the Ptisick and Cough, who was so bad therewith, that she was like to lose her speech.</p>
+               <p n="80">80. Mrs. <hi>Holloway,</hi> at the Nags-Head,<note place="margin">☜</note> in <hi>Grays-Inn-Lane,</hi> of a Feaver, with great weakness, when none thought she would have lived.</p>
+               <p n="81">81. Mrs. <hi>Collins,</hi> near the <hi>Castle-Gate</hi>
+                  <note place="margin">☜</note> in <hi>Bristol,</hi> of an Imposthume in her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar.</p>
+               <p n="82">82. <hi>Ann Penny</hi> of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om,</hi> five miles<note place="margin">☜</note> from <hi>Worminster,</hi> of the Evil in her Neck.</p>
+               <p n="83">83. The Wife of Mr. <hi>Wenton</hi> of <hi>Forshill,</hi>
+                  <note place="margin">☜</note> two miles off <hi>Coventry,</hi> of the Mother, and Spleen.</p>
+               <p n="84">84. The Wife of Mr. <hi>Burnham,</hi> of <hi>West<g ref="char:EOLhyphen"/>hadingham,</hi>
+                  <note place="margin">☜</note> seven miles off <hi>Nerthampton,</hi> of lameness in her back and hyps, which came with Child-bearing, and I soon made her throw by her Crutches, and cured her.</p>
+               <p n="85">85. The Wife of <hi>Robert Ostine.</hi> of <hi>Hichin</hi>
+                  <note place="margin">☜</note> in <hi>Hartfordshire,</hi> of a lame Leg, and shrunk Sinews, who could not set her Foot to the ground, nor get help in twenty years, and I made her as well as ever she was in her life.</p>
+               <p n="86">86. <hi>Elizabeth Barten,</hi> at the Wool<g ref="char:EOLhyphen"/>pack<note place="margin">☜</note> in <hi>Sea-Alley</hi> in <hi>King-street</hi> in <hi>West<g ref="char:EOLhyphen"/>minster,</hi> of the Dropsie, and Timpeny, who was likely to dye thereof.</p>
+               <p n="87">
+                  <pb n="28" facs="tcp:32742:17"/>87. The Wife of Mr. <hi>Richard Kirwood,</hi> an Apothecary in <hi>Corn-street</hi> in <hi>Bristol,</hi> who gat harm in her lying In, and had the advice of many able Doctors, but none could cure her, insomuch that there was little expected but death, however, with Gods blessing, I made her as well as ever she was in her life.</p>
+            </div>
+            <div type="testimonials">
+               <p>
+                  <hi>You may see, and prove the truth hereof, and you will find that there is not any but my self have done any such Cur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, since God gave me the gift of Healing.</hi>
+               </p>
+               <p>
+                  <hi>Therefore I would not have you believe all Men and Women that say they can do the same: for we live in a false Age, and many People are given very much to lying: wherefore prove the truth of their works▪ and mine; and you that cannot trus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your own judgement, take the advice of some godly honest Man, and so pro<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>d.</hi>
+               </p>
+               <p>
+                  <hi>One thing more take notice of, which is this; Because I do good to all that come, being curable: many of the People think others can do the like, and so go to those which have no skill, and so are cheated of their money, lives and all.</hi>
+               </p>
+               <p n="1">1. The Servant of Mr. <hi>Richard Corbit,</hi> at the Globe in <hi>Long-Lane,</hi> who was quite b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd of one Eye, of the Evil, and I <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>red her.</p>
+               <p n="2">
+                  <pb n="29" facs="tcp:32742:17"/>2. The Child of Mr. <hi>Edward Costerin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">☜</note> at <hi>Wapping-Wall,</hi> a Sail-maker, of the Rickets, and Hectick Feaver.</p>
+               <p n="3">3. The Son of Mr. <hi>Thomas Partridge,</hi> at<note place="margin">☜</note> the lower end of <hi>East-smith-field,</hi> neer the <hi>Armitage</hi> Bridge, a Plomer, of the Feaver.</p>
+               <p n="4">4. The Child of Mr. <hi>Harcalus Bridson,</hi>
+                  <note place="margin">☜</note> neer the sign of the <hi>King Daved,</hi> a Dyer, on the Bank-side in <hi>Southwark,</hi> of lame<g ref="char:EOLhyphen"/>ness all one side.</p>
+               <p n="5">5. The Child of Mr. <hi>Henry Peacock,</hi>
+                  <note place="margin">☜</note> neer <hi>Catherines Dock,</hi> of the new malig<g ref="char:EOLhyphen"/>nant Feaver, and Cough.</p>
+               <p n="6">6. <hi>William Davis</hi>'s Daughter of <hi>Wor<g ref="char:EOLhyphen"/>minster</hi>
+                  <note place="margin">☜</note> in <hi>Wiltshire,</hi> of the Evil in her Neck.</p>
+               <p n="7">7. <hi>Elizabeth Butcher,</hi> of the same Town,<note place="margin">☜</note> of a scald and leprous Head, who was twelve, or thirteen years of Age, and brought it into the world with her.</p>
+               <p n="8">8. I cured her sister of the same Di<g ref="char:EOLhyphen"/>stemper.<note place="margin">☜</note>
+               </p>
+               <p n="9">9. Mr. <hi>Brooks</hi> his Daughter of <hi>Filling<g ref="char:EOLhyphen"/>sly,</hi>
+                  <note place="margin">☜</note> three miles off <hi>Coventry,</hi> of the Evil, and Blindness.</p>
+               <p n="10">10. <hi>Elizabeth Weltons</hi> Son, of <hi>Hill<g ref="char:EOLhyphen"/>woton,</hi>
+                  <note place="margin">☜</note> six miles off <hi>Coventry,</hi> of the Evil, and Blindness.</p>
+               <p n="11">11. The Daughter of Mr. <hi>Standbridge</hi>
+                  <note place="margin">☜</note> in <hi>Catherine-wheel-yard,</hi> against the Sheep-pens in <hi>Smith-field,</hi> of the Feaver, and Gripes in the Guts.</p>
+               <p n="12">
+                  <pb n="30" facs="tcp:32742:18"/>12. Mr. <hi>Hayhts</hi> Son, of the same Yard,<note place="margin">☞</note> of the consuming Feaver, which is the worst of Consumptions.</p>
+               <p n="13">13. The Child of Mr. <hi>Grimes</hi> between<note place="margin">☞</note>
+                  <hi>Vine-street</hi> and <hi>Mutton-lane,</hi> near <hi>Clark<g ref="char:EOLhyphen"/>en well,</hi> a Clock maker, of the Rickets and Consumption, when he was almost at Deaths door.</p>
+               <p n="14">14. I helpt Mrs. <hi>Mary Coopland</hi> in<note place="margin">☞</note>
+                  <hi>Beamous-T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd,</hi> a little without <hi>Aldgate,</hi> of great lameness in her Hyps.</p>
+               <p n="15">15. The Child of Mr. <hi>John Sereitt,</hi> at<note place="margin">☞</note> the upper end of <hi>Sea-Alley</hi> in <hi>Kings-street Westminster,</hi> being pin'd away with a Consumption and Rickets, to skin and bones, being above two years af Age, and could not bear any strength to stand, and People thought it impossible for that Child to be recovered; however, with Gods blessing, he is as brave a Boy as a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> about <hi>London.</hi>
+               </p>
+               <p n="16">16. I cured the Wife of <hi>John Stooks</hi> of<note place="margin">☞</note>
+                  <hi>Guilfo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> in <hi>Surry,</hi> of tormenting pain and lameness, of the Scurvy in all her Limbs.</p>
+               <p n="17">17. <hi>John Jackman</hi> of the same Town,<note place="margin">☞</note> of the Headach, who saith his pain was so great for the space of twelve weeks before he made use of my things, that he could not take any rest night nor day.</p>
+               <p n="18">18. I help<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mrs. <hi>Lime,</hi> a Lodger at the<note place="margin">☞</note>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Billit in St. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the
+<pb n="31" facs="tcp:32742:18"/> Fields, of five Stones that came from her at once, the first or second time after she had taken my things: they are about the big<g ref="char:EOLhyphen"/>ness of little Nuts, shaped like a Muscle, four of them, and the other is of another shape; any that please may see them: and she hath voided about one hundred since, I have them.</p>
+               <p>I cure all sorts of blindness, without putting any thing into the Eyes.</p>
+               <p>I cure the Scald or Leprous Head without pain, or loss of a hair.</p>
+               <p>All sorts of Sores, though the bones be rotten.</p>
+               <p>The Price of this Book is four-pence.</p>
+            </div>
+            <div type="part">
+               <p>THE <hi>Scurvies</hi> breed a <hi>Gonorrhaea,</hi> and so will hard drinking, smoaking To<g ref="char:EOLhyphen"/>bacco, and late sitting up at nights; and a <hi>Gonorrhaea</hi> will breed a <hi>Consumtpion</hi> of the Reins and Kidneys; and this <hi>Con<g ref="char:EOLhyphen"/>sumption</hi> will breed a <hi>Catarrh,</hi> which is known by a sharp tickling in the Throat, which is a briny Rheume distilling down from the Br<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in, but comes from the whole mass of blood, being corrupted, and made thin and sharp; and when it hath much ulcerated the Lungs, the best things in the World will not cure; and that is known by much Coughing, and spitting ropy Flegm in the night, the loss of natu<g ref="char:EOLhyphen"/>ral rest, the Appetite bad, and strength
+<pb n="32" facs="tcp:32742:19"/> decaying, being heavy and melancholy, and little comfort in any thing, and the flesh wasting away; the mass of blood is all nought, the bodies of most all raw on the inside, from the Throat to the Neck of the Bladder; and further in some: so all the Art is to take away all the corruption ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the mass of blood, and to make it pure and good, and to heal all the inward parts, and then the work is done: I do it in the hardest times of Winter, or Summer; the <hi>Ca<g ref="char:EOLhyphen"/>tarrh</hi> goeth speedily off, and all pains soon after that; then comes a good Appetite, with all manner of comfort as formerly; but you must not give off taking things, till you find some other symptoms gone as well as the former, which is foulness and greasiness of the Urine, and that it doth continue of a clear wholesome colour, you are well.</p>
+               <p>But beware lest you come too late; therefore to prevent this Mortal Distem<g ref="char:EOLhyphen"/>per, so soon as you find tickling in your Throat, make hast, and come to me, and I, under God, will help you for small charge; but if you stay till the aforesaid symptoms are on you, I declare to the World, you cannot be cured.</p>
+            </div>
+         </div>
+         <div type="advert">
+            <pb n="33" facs="tcp:32742:19"/>
+            <head>I am informed by many what kind of People they are which speak a<g ref="char:EOLhyphen"/>gainst me, and my Practise.</head>
+            <p>POor ill-natured Men and Women▪ which would fain do Cures; but having framed themselves the Devils In<g ref="char:EOLhyphen"/>struments so long to do his work, that now he hath got so much power over them, that he will not suffer them to do any good, and their hearts being always full of envy, as it doth appear by their lying and slandering those that doth good.</p>
+            <p>Many thousands there are of them, and they make it part of their business to cry me down in my Practise, and the more they cry me down, the more I encrease in knowledge, and doing good; and were it not for their slandering Tong<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, I be<g ref="char:EOLhyphen"/>lieve I should have most of the Practise of the Kingdom.</p>
+            <p>You may know them by this sign, they will say I am a Cheat, and that I do no good, and the Cures set down in my Book are not true; and that I was not bred up to this Art, and that a course shall be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken with me; and with all manner of lies and slanders the Devil
+<pb n="34" facs="tcp:32742:20"/> their Master can teach them, which are many; and with his help they endeavour to turn Light into Darkness.</p>
+            <p>And they do certainly seduce and hin<g ref="char:EOLhyphen"/>der thousands of People from coming to me for help till it is too late; and where<g ref="char:EOLhyphen"/>soever you hear any speak against me, and my Practise, or Books, you may be sure they are of this Hellish Tribe: Pray have nothing to do with them, for fear they should seduce you, and corrupt your mind, and so you may lose your lives for want of using right means; for it is well known throughout <hi>England,</hi> that my things are good, and my judgement also, to the benefit of thousands of Men, Wo<g ref="char:EOLhyphen"/>men, and Children.</p>
+            <p>They say that I have practised but a little while; and as to that, it is well known I have practised above thirty years</p>
+            <p>And as far as I can find out these Peo<g ref="char:EOLhyphen"/>ple by enquiry, sometimes they have Shops, and make great shew for a little time, imploying others besides themselves to cry down all that doth good; some<g ref="char:EOLhyphen"/>times Pick-pockets, sometimes Game<g ref="char:EOLhyphen"/>sters, other times High-way Men, and breakers of Houses, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Pickers of Win<g ref="char:EOLhyphen"/>dows in the Night, and great Hectors in the Day-time; and when tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fails, then they will be great Doctors, and make People believe they can cure all Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="35" facs="tcp:32742:20"/>
+            <p>I never heard any able Doctor, or any Person of Credit, ever speak against me, my Practise, or Books; therefore when you hear any begin to speak against me, and my Practise, you may be sure they are such kind of wicked Persons as I have told you of before.</p>
+            <p>Many old Women say they are my near Relations, and that they can make my Cordial Pill and Balsom as well as my self; and these old Women Cheats delude many.</p>
+            <p>Some Women, when their Husbands or Children are sick, will undertake to minister things, and send them to their long home. My advice to those which are not yet guilty of such sins, that they ne<g ref="char:EOLhyphen"/>ver attempt any such thing; and they that are guilty that they repent, and do so no more.</p>
+            <p>And as for the old Women which have with their Sorceries deluded and kill'd so many, that they forbear doing any more such wickedness, and fall to Spinning, which will better become them.</p>
+            <p>There are many for want of imploy<g ref="char:EOLhyphen"/>ment, take upon them to cure all Disea<g ref="char:EOLhyphen"/>ses, which are up and down in most parts about <hi>London;</hi> and to make the most of what they do, they will frame a Paper or Book like unto those that doth good, and give them abroad in like manner, saying,
+<pb n="36" facs="tcp:32742:21"/> by that means they shall catch some of the People in their Nets: therefore have a care that they do not with their fine de<g ref="char:EOLhyphen"/>luding words get your money, and you afterwards want it to go to such as are a<g ref="char:EOLhyphen"/>ble to cure you, as I have daily some such comes to me, after these young beginners have got all their money, and not done them any good; and then you will say you cannot know us one from another: it is an easie matter to know a man that hath lived long in <hi>London,</hi> and done ma<g ref="char:EOLhyphen"/>ny great Cures, which will be witnessed by such as dare not tell a lye, from those which will tell you of all sorts of great Cures he hath done, and not one Person of Credit to witness the same; but if you would have advice what Doctor to go to for help, take counsel of some good men that live in the fear of God, and I think you cannot do amiss.</p>
+            <div type="part">
+               <p>The next is my Balsome of Balsoms: it helpeth forty outward Distempers, and some inward; for old People whose blood is cold and chilly, or by Consumption, or want of Appetite, or sleep: take as much as a small Nut roled up in Po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der of Liquorice at night and about half an hour before Dinner: for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l strains, squats, bruises, burnings, scald<g ref="char:EOLhyphen"/>ings, pains and weakness in the Ankles. or <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res old or new, apply it morning
+<pb n="37" facs="tcp:32742:21"/> and evening, with <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> piece of Bladder, it will make an old sore un faster a little time, and after that it will heal: it doth help bleeding presently: it helps the Head<g ref="char:EOLhyphen"/>ach by anointing the Nostrils, and Temples: for Tetter, Ringworm, Shingles, Sca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Itch; a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all sorts of salt briny humours: L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>prosie, anoint the parts grieved, twice a day: for stoppage in the Head, and Nostrils, rub some of it up into your Nostrils with the end of your Finger often: for hard knobs in the N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cks of Boys and Girls, we<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it as a pla<g ref="char:EOLhyphen"/>ster, d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the like for the Ev<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it fails not the C<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes be ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten. For the Gou<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ster very plentiful: for the Palsie do the like.</p>
+               <p>It did cure Mr. <hi>James Guilliam</hi> of <hi>Arch<g ref="char:EOLhyphen"/>ing<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> in St. <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inards</hi> Parish, eight miles from <hi>Hereford,</hi> of the Leprosie all over his body, Who could not get help in twenty years, and made him as well as any Man in <hi>England</hi>
+               </p>
+               <p>The Child of Mr. <hi>Thomas Parsons,</hi> against St. <hi>Gileses</hi> Church, at the Wool<g ref="char:EOLhyphen"/>pack, of the Evil in his Hand, being eat through the Bones, and Sinews; and his Hand eaten allmost to pieces, and it cu<g ref="char:EOLhyphen"/>red him, and he hath the use of it.</p>
+               <p>Mr. <hi>Gregory Coe</hi> on the Bank-side, near the <hi>Bear-Garden,</hi> of the Palsie in both his Hands, that he had not any use of them
+<pb n="38" facs="tcp:32742:22"/> for three years, and odd months, and about fourscore years of age, and it cured him above four years ago, and he is yet alive and hath the use of his Hands very well.</p>
+               <p>Mr. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>illmots</hi> Daughter of <hi>Hook Nor<g ref="char:EOLhyphen"/>ton</hi>
+                  <note place="margin">☞</note> in <hi>Oxfordshire,</hi> of the Joint-evil in her Arm, and Elbow, which was Fistulaed, and eat through the bones, and it cured her ten years ago, and she is now one of my servants, where any may see her; and the parts where the Distemper was, I suppose most of all the Town where her Father liveth, can attest the truth of her Cure. What I here have set down of my Balsome of Balsomes, is but a little part of the virtues of it, you may be sure it will cure all outward Distempers curable, though the bones be rotten; and such as have a desire to know more of it, I referr them to my Book of mighty Cures, which doth give account more at large.</p>
+               <p>I sell it one shilling the ounce in a wooden Box, and such as take a pound, hath it for twelve shillings, or half a pound at the same rate.</p>
+            </div>
+            <div type="part">
+               <p>The third and last thing is my Electuary, formerly called my Cordial Pill, and so well approved on in and about <hi>London,</hi> that I think I did sell 1000. l. worth in every year, till the Cheats found it was so publickly known to do good: they one after the o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her coun<g ref="char:EOLhyphen"/>terfeited
+<pb n="39" facs="tcp:32742:22"/> it, calling their sorceries, and their make-trash, by the name of Cordial Pills, Cordial Waters, Cordial Spirits, Cordial Drops, all Cordial names: so that I am fain to change the name of it, and call it an E<g ref="char:EOLhyphen"/>lectuary; and it is wholesome for peoples bodies, and I will give the directions: it is two shillings the ounce; a M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n or Woman may take as much as a small Nut, morning and euening; and Children according to their age and strength: you cannot err, it is so safe, no Dyet to be observed: It doth cure the Convulsion, and all manner of fits: all sore and Rheumy Eyes, and put no<g ref="char:EOLhyphen"/>thing into them: all sorts of melancholy: all swellings in the Lips and Nose: clears the Skin: it doth give three or four Stools a day, and bringeth away such matter tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth offend, all sorts of colours: one green, in another black, in another yellow, in some thin watry humours: according as they are gendred in the body; and if you will see the rest of its virtues, which are many, look in<g ref="char:EOLhyphen"/>to my Book of mighty Cures.</p>
+               <p>It helps all vapors from the Head, and saveth Women from miscarrying; being taken now and then all the time they go with Child: it helps swelled bellies in Children, and the swellings of the Lips and Nose.</p>
+               <p>It cured the Wife of Mr. <hi>Richard Ran<g ref="char:EOLhyphen"/>dall</hi>
+                  <pb n="40" facs="tcp:32742:23"/> near the Church in <hi>Deptsord,</hi> which was quite blind, he returned thanks.</p>
+               <p>There is no better thing in the world for such as are subject to be bound and hard to go to stool: it doth prevent many Diseases, and eause them to live comfort<g ref="char:EOLhyphen"/>able: it helpeth all dissiness and swiming in the Head: purges wind upward and downward: helps the Ptisick and short<g ref="char:EOLhyphen"/>ness of breath: cleanseth the Reins, and helps a small Gonorhaea: makes the milk of Nurses pure and good: mends weak<g ref="char:EOLhyphen"/>ness of hearing, and clears the dim sight: takes away the yellow of the Face, and all morphew from any part of the body.</p>
+               <p>It laely helpt a Woman of about four<g ref="char:EOLhyphen"/>score Years of Age, who was quite blind; and one ounce or two of it made her able, with Gods help, to read any Chapter in the Bible, she living in <hi>London,</hi> where I will direct any to her House, where she and her Neighbours can witness the truth of it.</p>
+            </div>
+         </div>
+         <div type="advert">
+            <pb n="41" facs="tcp:32742:23"/>
+            <head>Advertisement.</head>
+            <p>I Am the first Man that ever gave out a Book of Cures in <hi>London,</hi> and the first found out the cure for the Scurvies, I have lived at my House in <hi>Hatton Gar<g ref="char:EOLhyphen"/>den</hi> about six years.</p>
+            <p>I ever practised on the worst of Di<g ref="char:EOLhyphen"/>stempers, and the worst and hardest to cure, are as easie with me as the smallest.</p>
+            <p>I cure the Ague and Feaver, for five shillings, and every one I miss I'le make their Crown an Angel.</p>
+            <p>You may all be cured for a small mat<g ref="char:EOLhyphen"/>ter, if you please. I help Women, old and young, under forty-five years, to the benefit of Nature, which is done with three Papers of Pouder three shillings, to be taken three mornings fasting in a draught of Whitewine.</p>
+            <p>I am the Man that in every thing in my calling, hath dealt honestly before God and Man; and that is the reason that God hath blest the means to every one, contrary to all others, which have in a counterfeit way pretended to do the same; But what is it the near, when the People have no faith to believe that God will bless the means to them, they will not use the means with diligence as they
+<pb n="42" facs="tcp:32742:24"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; but will be fearful and unbeliev<g ref="char:EOLhyphen"/>ing, and so be guilty of their own death: nor will they consider where they go when they go hence, nor who shall spend that they leave behind: which it may be they have been working for all the days of their lives: it is a sad thing to be in Hell, tor<g ref="char:EOLhyphen"/>mented with Devils, whilst one as a fool<g ref="char:EOLhyphen"/>ish and wicked as himself, is spending and wickedly consuming, that which he took so much care for all the days of his life: I speak to such as lose their lives foolishly. Ano<g ref="char:EOLhyphen"/>ther sort of People are given so much to Novalties, that they will run presently to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: that will tell them abundance of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es: though they know they can go to one that can help them, yet such is the nature of some, that they will try new things, though they lose their lives.</p>
+            <p>One near St. <hi>Pauls</hi> made his braggs in his Cups, that the last Spring he made a Book of thirty of the greatest Cures that could be named, in several places in <hi>London;</hi> and when he was asked by some that kept him company, if he did cure them; he said he did not know if there were any such People in the world; but if any came to him, and said they could not find any such People, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old them they were gone into the Coun<g ref="char:EOLhyphen"/>try; and s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e got threescore pound, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o and be hanged: for he
+<pb n="43" facs="tcp:32742:24"/> would invent such another trick for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the fall; and so he hath set forth Book with many such cures set down in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but no such People to be found: unless it is here and there a wicked Person like him<g ref="char:EOLhyphen"/>self, say it for his reward; and sets forth Pills to be sold at several places; but there are thousands of them that doth the same, which if the truth were discovered, it is certa in none of them ever did a Cure in their lives; but I take notice of them, he that can tell the greatest lyes gets the most money; and God knows how many Peoples lives they may destroy, I do <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give a hint at their Roguery, to prevent your being poysoned: for as I am inform<g ref="char:EOLhyphen"/>ed, they were a while since but Theeves, and Burglers, Pick-pockets, and such kind of Cattel: therefore go to none but such as may be witnessed by some of the good People of God, to do Cures; and so you may prevent being poysoned: for as far as I can find out, their Books, nor Papers, have not one true word in them.</p>
+            <p>And because these hellish villains that daily Rob the Spittle, do plant thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> counterfeit things about the City to be sold; this is to give notice that there shall not any of my things be had at any place in <hi>London,</hi> or <hi>Wectm<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ster;</hi> but at my House in <hi>Hatton-G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="44" facs="tcp:32742:25"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s▪ but in the Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople are more wary.</p>
+            <p>To let you know, that I will sell or change with any one, within ten Miles of <hi>London,</hi> tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Farms in the Parish of <hi>Bitton</hi> in <hi>Glocestershire,</hi> the one is three miles from <hi>Bristol,</hi> and the other four miles, so they stand but a▪ mile one from another; all in<g ref="char:EOLhyphen"/>closed Ground which is very good; and the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of each Farm lieth altogether round eac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> House, with Gardens, Fish-ponds, and Orchards, all very pleasant, and in a very healthy Air: Any that have a mind for Land there, I will use them well. Also my Country-house at <hi>Marshfield</hi> in the same shire, with the Gardens and Yards, and all the Territories therunto belong<g ref="char:EOLhyphen"/>ing: I will let at a asonable rate, by Lease, or Yearly Rent.</p>
+            <p>You are desired to lend this Book to your Neighbours and Friends; and you that receive them here, and have Friends in the Country that are not well, to send <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Book, that they may have the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as well as yourselve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32742:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
